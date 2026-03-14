@@ -30,7 +30,7 @@ Dataset: Sample eCommerce sales data (dummy data for demonstration)
 🚀 Getting Started
 Clone this repository:
 
-git clone https://github.com/sahilpisal03/Ecommerce-Sales-Dasboard.git
+git clone https://github.com/PrathamPatil2002/Power_BI_Dashboard_Project/blob/main/README.md
 
 Open the Ecommerce_Dashboard.pbix file in Power BI Desktop to explore and modify.
 
