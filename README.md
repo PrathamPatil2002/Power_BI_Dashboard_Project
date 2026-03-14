@@ -44,3 +44,4 @@ Payment Modes: COD is the most preferred method (44%).
 Seasonal Trends: Profits fluctuate across months, with noticeable dips in July and December.
 
 📸 Preview
+
