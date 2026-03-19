@@ -1,65 +1,117 @@
-🛒 eCommerce Sales Dashboard – Power BI
+# 🛒 Ecommerce Sales Dashboard (Power BI)
 
-
-An interactive Power BI dashboard built to analyze eCommerce sales performance. This project visualizes key business metrics like total sales, profit, order quantity, and customer trends to help track growth and identify opportunities.
-
-📊 Dashboard Highlights
+An interactive and visually appealing **Ecommerce Sales Dashboard** built using Power BI to analyze business performance, customer behavior, product trends, and profitability. This project showcases end-to-end data analysis and dashboard design skills with a modern dark-themed UI.
 
 
 
-KPIs:
-💰 Total Sales – 438K
+## 📸 Dashboard Preview
 
-📈 Total Profit – 37K
-
-📦 Total Quantity – 5615
-
-🏷️ Average Order Value – 121K
+![Dashboard Screenshot](images/dashboard_preview.png)
 
 
 
-Insights Covered:
+## 🚀 Project Overview
 
-Sales and profit trends by month
-
-Top-performing states, customers, and product categories
-
-Payment mode distribution (COD, UPI, Cards, EMI)
-
-Profitability by sub-category
+This dashboard provides a **comprehensive analysis of ecommerce data** through KPIs, charts, and interactive filters. It enables stakeholders to monitor performance, identify trends, and make data-driven decisions efficiently.
 
 
 
-🛠️ Tools & Technologies
+## 📊 Key Metrics (KPIs)
 
-Power BI Desktop – Data modeling and interactive dashboard creation
-
-Dataset: Sample eCommerce sales data (dummy data for demonstration)
-
-📸 Dashboard Preview
-
+* 💰 **Total Sales (Amount):** 438K
+* 📈 **Total Profit:** 37K
+* 📦 **Total Quantity Sold:** 5615
+* 🧾 **Average Order Value (AOV):** 121K
 
 
-🚀 Getting Started
 
-Clone this repository:
+## 📌 Dashboard Features
 
-git clone https://github.com/PrathamPatil2002/Power_BI_Dashboard_Project
+### 🔹 Sales by State
 
-Open the Ecommerce_Dashboard.pbix file in Power BI Desktop to explore and modify.
+* Visualized using a **bar chart**
+* Highlights top-performing states like Maharashtra and Madhya Pradesh
+* Helps identify regional sales performance
+
+### 🔹 Quantity by Category
+
+* Displayed using a **donut chart**
+* Clothing dominates with **63%**, followed by Electronics and Furniture
+* Useful for category-level analysis
+
+### 🔹 Profit by Month
+
+* Represented using a **column chart**
+* Tracks monthly profit trends across the year
+* Identifies profitable and loss-making months
+
+### 🔹 Sales by Customer
+
+* Bar chart showing **top customers by revenue**
+* Helps in customer segmentation and targeting
+
+### 🔹 Quantity by Payment Mode
+
+* Donut chart showing distribution:
+
+  * COD (44%)
+  * UPI (21%)
+  * Debit Card (13%)
+  * Credit Card (12%)
+  * EMI (10%)
+
+### 🔹 Profit by Sub-Category
+
+* Horizontal bar chart showing profit contribution
+* Top categories include **Printers and Bookcases**
 
 
-💡 Key Insights
+## 🎛️ Filters & Interactivity
 
-Top Products & Categories: Clothing dominates with 63% of quantity sold.
+* 🗓️ **Quarter Filter (Qtr1–Qtr4)** for time-based analysis
+* 🌍 **State Filter** for regional insights
+* Interactive visuals for better exploration
 
-State Performance: Maharashtra leads in sales amount.
 
-Payment Modes: COD is the most preferred method (44%).
+## 🛠️ Tools & Technologies Used
 
-Seasonal Trends: Profits fluctuate across months, with noticeable dips in July and December.
+* **Power BI** → Data visualization & dashboard design
+* **Microsoft Excel** → Data source
+* **DAX (Data Analysis Expressions)** → Calculations and KPIs
 
-📸 Preview
-![Screenshot_19-3-2026_134828_](https://github.com/user-attachments/assets/6eb83b98-d75f-4095-93f3-c3147f68a0b9)
+
+## 📈 Key Insights
+
+* Clothing is the highest-selling category by quantity
+* COD is the most preferred payment method among customers
+* Profit fluctuates across months with some negative values
+* Printers and Bookcases are the most profitable sub-categories
+* Sales are concentrated in major states like Maharashtra
+
+
+## 🎯 Business Impact
+
+* Enabled **data-driven decision making**
+* Improved visibility into sales and profit performance
+* Helped identify high-performing products and customers
+* Reduced manual reporting effort and improved efficiency
+
+## ▶️ How to Use
+
+1. Download the `.pbix` file from the repository
+2. Open it using **Power BI Desktop**
+3. Interact with filters (Quarter, State)
+4. Explore insights across visuals
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates strong skills in:
+
+* Data visualization
+* Business intelligence
+* Dashboard design
+* Insight generation
 
 
