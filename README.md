@@ -2,17 +2,14 @@
 
 An interactive and visually appealing **Ecommerce Sales Dashboard** built using Power BI to analyze business performance, customer behavior, product trends, and profitability. This project showcases end-to-end data analysis and dashboard design skills with a modern dark-themed UI.
 
+## 🚀 Project Overview
 
+This dashboard provides a **comprehensive analysis of ecommerce data** through KPIs, charts, and interactive filters. It enables stakeholders to monitor performance, identify trends, and make data-driven decisions efficiently.
 
 ## 📸 Dashboard Preview
 
 ![Screenshot_19-3-2026_134828_](https://github.com/user-attachments/assets/07ca6eb9-ca9f-4cb7-9934-a32c3e04e4d7)
 
-
-
-## 🚀 Project Overview
-
-This dashboard provides a **comprehensive analysis of ecommerce data** through KPIs, charts, and interactive filters. It enables stakeholders to monitor performance, identify trends, and make data-driven decisions efficiently.
 
 
 
