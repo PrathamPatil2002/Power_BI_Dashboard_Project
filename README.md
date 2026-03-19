@@ -6,7 +6,7 @@ An interactive and visually appealing **Ecommerce Sales Dashboard** built using 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard_preview.png)
+![Screenshot_19-3-2026_134828_](https://github.com/user-attachments/assets/07ca6eb9-ca9f-4cb7-9934-a32c3e04e4d7)
 
 
 
